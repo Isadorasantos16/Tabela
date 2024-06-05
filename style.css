@@ -1,7 +1,20 @@
 table{
     width: 50;
     line-height: 1.5;
-    border-color: darksalmon;
     border-style: solid;
-    border: solid 4px;
+    border: solid 3px red;
+}
+
+thead{
+    background-color: beige;
+    font-size: 18px;
+    text-align: center;
+    border: 2px solid rgb(255, 107, 107);
+    
+}
+
+td{
+    border: 1px;
+    font-family: Verdana;
+    font-size: 15px;
 }
